@@ -42,7 +42,7 @@ public class Ejercicio3 {
 
                         System.out.print("Mejor marca 2026: ");
                         marca2026[contador] = sc.nextDouble();
-                        sc.nextLine(); // limpiar buffer
+                        sc.nextLine();
 
                         contador++;
                         System.out.println("Participante inscrito correctamente.");
